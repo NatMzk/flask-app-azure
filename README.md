@@ -5,13 +5,13 @@ Calculator
 
 This is minimal flask application of Calculator which performs following Operations:
 
-[1] Addition (OPERATION: +)
+[1] Sum (OPERATION: +)
 
-[2] Subtraction (OPERATION: -)
+[2] Substract (OPERATION: -)
 
-[3] Multiplication (OPERATION: *)
+[3] Multiply (OPERATION: *)
 
-[4] Division (OPERATION: /)
+[4] Divide (OPERATION: /)
 
 
 **Inside template/**
@@ -32,6 +32,6 @@ How to Use:
 
 Go to terminal and inside the project directory, and type the following command:
 
-    $ python calc.py
+    $ python app.py
 
 The server is started and now goto your browser and open URL localhost:5000.
